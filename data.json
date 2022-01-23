@@ -1,9 +1,91 @@
 {
-    "products": [{
-        "id": 1,
-        "title": "Product Title",
-        "price": 1000,
-        "img": "https://images.unsplash.com/photo-1629666451102-2063a4dc74a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
-        "description": "Nothing beats a freshly pulled pint in your favourite pub—except maybe a freshly pulled pint in your very own home."
-    }]
+  "products": [
+    {
+      "id": 1,
+      "title": "Product Title",
+      "price": 1000,
+      "img": "https://images.unsplash.com/photo-1629666451102-2063a4dc74a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "description": "Nothing beats a freshly pulled pint in your favourite pub—except maybe a freshly pulled pint in your very own home."
+    }
+  ],
+  "measures": [
+    {
+      "id": 1,
+      "color": "blue",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 2,
+      "color": "blue",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 3,
+      "color": "blue",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 4,
+      "color": "green",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 5,
+      "color": "red",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 6,
+      "color": "yellow",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 7,
+      "color": "yellow",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "id": 8,
+      "color": "yellow",
+      "description": "nothing",
+      "created_at": "23/01/2022"
+    },
+    {
+      "color": "purple",
+      "description": "afraid",
+      "created_at": "23/01/2022",
+      "id": 9
+    },
+    {
+      "color": "red",
+      "description": "angry",
+      "created_at": "23/01/2022",
+      "id": 10
+    },
+    {
+      "color": "blue",
+      "description": "sad",
+      "created_at": "23/01/2022",
+      "id": 11
+    },
+    {
+      "color": "green",
+      "description": "yakkk",
+      "created_at": "23/01/2022",
+      "id": 12
+    },
+    {
+      "color": "red",
+      "description": "angry",
+      "created_at": "23/01/2022",
+      "id": 13
+    }
+  ]
 }
